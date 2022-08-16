@@ -9,4 +9,5 @@ package-*
 package-lock.json
 .env
 *.pem
-.zip
+*.zip
+images/a360/icons/SalesforceIcons.zip
